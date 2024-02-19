@@ -29,6 +29,7 @@ class SplashScreen extends StatefulWidget {
   @override
   State<SplashScreen> createState() => _SplashScreenState();
 }
+//this is the main screen
 
 class _SplashScreenState extends State<SplashScreen> {
   @override
