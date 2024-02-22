@@ -10,7 +10,7 @@ class RegisterScreen extends StatelessWidget {
         padding: const EdgeInsets.all(20.0),
         child: Column(
           children: [
-            Hero(tag: 'LoGo', child: Image.asset('assets/images/logo2.png'))
+            Hero(tag: 'Logo', child: Image.asset('assets/images/logo2.png'))
           ],
         ),
       ),
