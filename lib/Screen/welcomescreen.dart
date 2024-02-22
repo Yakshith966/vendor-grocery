@@ -83,7 +83,7 @@ class WelcomeScreen extends StatelessWidget {
                     ),
                     child: RichText(
                       text: TextSpan(
-                        text: "Already a Customer ? ",
+                        text: "Already a User ? ",
                         style: TextStyle(color: Colors.grey),
                         children: [
                           TextSpan(
